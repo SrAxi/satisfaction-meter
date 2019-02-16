@@ -1,0 +1,24 @@
+{
+  "name": "satisfaction-meter",
+  "version": "1.0.0",
+  "description": "measuring personal satisfaction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrAxi/satisfaction-meter.git"
+  },
+  "author": "Riccardo Polacci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrAxi/satisfaction-meter/issues"
+  },
+  "homepage": "https://github.com/SrAxi/satisfaction-meter#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.3.3"
+  }
+}
